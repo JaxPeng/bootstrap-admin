@@ -1,0 +1,22 @@
+body{ font-family: "微软雅黑"; color: #333333 }
+.header-container{
+    width: 1200px;
+}
+.main-container{
+    width: 1200px; margin: 70px auto; background: #F2F2F2; padding: 20px 0; border-radius: 5px;
+}
+.no-padding-right{ padding-right: 0}
+.no-padding-left{ padding-left: 0}
+.margin-top-10{margin-top: 10px}
+.clear-fix{ clear: both}
+.navbar-light{ border-bottom: 1px solid #CCCCCC; background: #F2F2F2}
+.nav-right a{ color: #333333 }
+.nav-account{ margin: 10px 0}
+
+.page-title{margin: 0 0 20px 0; padding: 0 0 10px 0; font-size: 1.5em; color: #555555; border-bottom: 1px solid #CCCCCC}
+.breadcrumb {background: #FFFFFF; margin: 0; padding: 0}
+.navbar-brand { color: #333333}
+.main-body{ min-height: 500px;}
+footer{ text-align: center; clear: both; margin: 10px 0}
+.td-actions{ text-align: right}
+.pagination{ margin: 0 0 10px 0}
